@@ -1,0 +1,55 @@
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe.config
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.pdb
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.xml
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3_Calculator_Flat.Resources.resources
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.vbproj.GenerateResource.Cache
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.exe
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.xml
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.pdb
+c:\users\mad\documents\visual studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3_Calculator_Flat.MAINFLAT.resources
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe.config
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.exe
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.xml
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.pdb
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.pdb
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.xml
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3_Calculator_Flat.MAINFLAT.resources
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3_Calculator_Flat.Resources.resources
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.vbproj.GenerateResource.Cache
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe.manifest
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.application
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.TrustInfo.xml
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.exe.manifest
+C:\Users\MAD-Scientist\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.application
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe.config
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.exe
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.xml
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.pdb
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe.manifest
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.application
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.pdb
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.xml
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3_Calculator_Flat.MAINFLAT.resources
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3_Calculator_Flat.Resources.resources
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.vbproj.GenerateResource.Cache
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.TrustInfo.xml
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.exe.manifest
+C:\Users\Arch-MAD\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.application
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe.config
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.exe
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.xml
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.pdb
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe.manifest
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.application
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.exe
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.pdb
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\bin\Debug\WC3 Calculator Flat.xml
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3_Calculator_Flat.MAINFLAT.resources
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3_Calculator_Flat.Resources.resources
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.vbproj.GenerateResource.Cache
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.TrustInfo.xml
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.exe.manifest
+C:\Users\Arch-MAD\OneDrive - Universitas Padjadjaran\Documents\Visual Studio 2012\Projects\WC3 Calculator Flat\WC3 Calculator Flat\obj\Debug\WC3 Calculator Flat.application
